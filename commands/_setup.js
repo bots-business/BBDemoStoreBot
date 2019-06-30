@@ -3,10 +3,15 @@
   help: 
   need_reply: 
   auto_retry_time: 
+  folder: 
   answer: Keys setupped
   keyboard: 
   aliases: 
 CMD*/
+
+
+Bot.sendMessage("It is demo bot. Setup is not allowed")
+return  // remove this line
 
 // Get your keys in https://www.coinpayments.net/index.php?cmd=acct_api_keys
 Libs.CoinPayments.setPrivateKey("YOUR KEY");
