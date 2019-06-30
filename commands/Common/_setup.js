@@ -4,7 +4,7 @@
   need_reply: 
   auto_retry_time: 
   folder: Common
-  answer: Keys setupped
+  answer: Keys setupped - OK
   keyboard: 
   aliases: 
 CMD*/
